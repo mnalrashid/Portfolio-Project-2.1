@@ -8,7 +8,7 @@ const questions = [
         ]
     },
     {
-        question: "Which mountains situated in Sligo?",
+        question: "Which mountain situated in Sligo?",
         answers: [
             {text: "Carrauntoohil", correct: false },
             {text: "Benbulbin", correct: true },
@@ -16,7 +16,7 @@ const questions = [
         ]
     },
     {
-        question: "What beach in Sligo?",
+        question: "Which beach is located in Sligo?",
         answers: [
             {text: "Glanleam", correct: false },
             {text: "Inchydoney", correct: false },
@@ -32,7 +32,7 @@ const questions = [
         ]
     },
     {
-        question: "Who born in Sligo?",
+        question: "Who was born in Sligo?",
         answers: [
             {text: "William Butler Yeats", correct: false },
             {text: "James Kerry", correct: true },
